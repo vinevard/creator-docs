@@ -70,7 +70,7 @@ Once strings are captured to your localization table, follow these steps to enab
      width="800" />
 
 <Alert severity="info">
-Roblox has initial and monthly quotas for automatic translation. The quotas determine how many string entries you can translate per language. The initial quota determines to how many string entries you can translate via automatic translations when you localize your experience for the first time. After you use up the initial quota, any subsequent translations come from your monthly quota, which resets every month.
+Roblox has initial and monthly quotas for automatic translation. The quotas determine how many string entries you can translate per language. The initial quota determines how many string entries you can translate via automatic translations when you localize your experience for the first time. After you use up the initial quota, any subsequent translations come from your monthly quota, which resets every month.
 </Alert>
 
 ## Supported Languages
